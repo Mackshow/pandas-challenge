@@ -1,0 +1,7 @@
+So, we’ve got this cool dataset from PyCitySchool that’s packed with info from a bunch of high schools. It’s got all sorts of stuff that helps us see how Charter schools stack up against District schools.
+
+One of the neat things we can do with this data is look at how much money each school is spending. We can break it down by school type, how many students they’ve got, and even how much they’re spending per student. It’s a pretty awesome way to see where all the money’s going.
+
+But it’s not just about the money. We can also dive into the average scores for math and reading. And we can slice and dice that data in a bunch of ways like by school name, type, per-student spending, and more. It’s like having a superpower to see into the academic performance of these schools.
+
+And if that wasn’t enough, we can also check out the overall scores across different schools. This gives us a big picture view of how schools are doing overall, not just in one subject. So yeah, this dataset is pretty much a goldmine for anyone interested in understanding our schools better.
